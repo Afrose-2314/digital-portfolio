@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -75,7 +75,7 @@
     </div>
 
     <div class="profile-container">
-        <img src="profile.jpg" alt="S. Afrose Banu">
+        <img src="Screenshot_2025-03-23-20-26-08-285_com.miui.gallery.jpg" alt="S. Afrose Banu">
     </div>
 
     <div class="container">
@@ -113,7 +113,7 @@
         </div>
 
         <div class="resume">
-            <a href="AFROSE BANU_20250304_220356_0000.pdf" download>Download CV</a>
+            <a href="Screenshot_2024-10-11-23-30-50-066_com.miui.gallery.jpg">Download CV</a>
         </div>
 
         <div class="github">
